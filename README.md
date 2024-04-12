@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ToDo List ✅ 
+A ToDo List application built with [React.js](https://react.dev/), where users can add, edit, and delete tasks. 
 
-## Getting Started
+## Features 💡
+- **Add Task**: Users can add tasks to the list by typing in the input field and pressing Enter or clicking the "Add" button.
 
-First, run the development server:
+- **Edit Task**: Users can edit existing tasks by clicking the pencil icon. This will transform the task into an editable input field, allowing users to modify the task text. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Delete Task**: Users can delete tasks from the list by clicking the delete icon.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies ⚙️
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![Static badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Static badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Learn More
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-To learn more about Next.js, take a look at the following resources:
+## Overview 💻
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="./public/overview-list.gif" width="300px"/> 
