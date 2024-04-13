@@ -18,4 +18,4 @@ A ToDo List application built with [React.js](https://react.dev/), where users c
 
 ## Overview 💻
 
-<img src="./public/overview-list.gif" width="300px"/> 
+<img src="./public/overview-list.gif" width="500px"/> 
